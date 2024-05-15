@@ -6,7 +6,7 @@ Type=Commander
 ScryfallCode=M3C
 
 [cards]
-16 R Ulalek, Fused Atrocity @Cosmin Podar
+16 M Ulalek, Fused Atrocity @Cosmin Podar
 32 R Eldrazi Confluence @Hristo D. Chukov
 33 R Eldritch Immunity @Carlos Palma Cruchaga
 35 R Selective Obliteration @Yeong-Hao Han
