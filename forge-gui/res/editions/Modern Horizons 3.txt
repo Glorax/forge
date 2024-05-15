@@ -13,42 +13,81 @@ ScryfallCode=MH3
 9 U It That Heralds the End @Alex Konstad
 12 U Null Elemental Blast @Milivoj Ćeran
 13 R Nulldrifter @Johann Bodin
+22 C Dog Umbra @Brian Valeza
+29 R Guide of Souls @Ryan Valle
+33 C Jolted Awake @Steven Russell Black
+38 M Ocelot Pride @Chris Seaman
+39 R Pearl-Ear, Imperial Advisor @Fajareka Setiawan
 40 R Phelia, Exuberant Shepherd @Rudy Siswanto
+45 C Thraben Charm @Carlos Palma Cruchaga
+47 R White Orchid Phantom @Zoltan Boros
+50 C Aether Spike @Campbell White
+51 R Amphibian Downpour @Omar Rayyan
 62 R Flare of Denial @Jason A. Engle
+63 R Harbinger of the Seas @Winona Nelson
+79 R Volatile Stormdrake @Campbell White
 83 R Chthonian Nightmare @Josu Solano
+100 U Marionette Apprentice @Steve Ellis
 103 M Nethergoyf @Xavier Ribeiro
+107 R Ripples of Undeath @Ben Wootten
+108 C Scurrilous Sentry @Leonardo Santanna
+109 R Shilgengar, Sire of Famine @Chris Rallis
+110 R Warren Soultrader @Pete Venters
+115 M Ashling, Flame Dancer @Michal Ivan
+116 R Detective's Phoenix @Deruchenko Alexander
+124 C Glimpse the Impossible @Justine Jones
+131 R Powerbalance @Steve Ellis
 140 U Spawn-Gang Commander @Chris Seaman
+141 C Thriving Skyclaw @Lucas Graciano
+144 R Wheel of Potential @Drew Baker
 154 R Flare of Cultivation @Billy Christian
+174 R Thief of Existence @Raph Lomotan
+183 U Emissary of Soulfire @Bartek Fedyczak
+189 R Imskir Iron-Eater @Xavier Ribeiro
 192 R Kudo, King Among Bears @Ekaterina Burmak
 199 R Psychic Frog @Pete Venters
 203 U Scurry of Gremlins @Ben Wootten
 207 R Wight of the Reliquary @Scott Murphy
 213 R Winter Moon @Drew Baker
+214 R Archway of Innovation @Yeong-Hao Han
 216 R Bloodstained Mire @Bruce Brenneise
 220 R Flooded Strand @Alexander Forssberg
+223 C Perilous Landscape @Alayna Danner
 224 R Polluted Delta @Chris Ostrowski
 229 U Snow-Covered Wastes @Mark Poole
+230 R Spymaster's Vault @David Alvarez
 233 M Ugin's Labyrinth @Mark Poole
 234 U Urza's Cave @Mark Poole
 235 R Windswept Heath @Alexander Forssberg
 236 R Wooded Foothills @Chris Ostrowski
 237 M Ajani, Nacatl Pariah @Chris Rallis
+242 M Tamiyo, Inquisitive Student @Magali Villeneuve
+245 M Sorin of House Markov @Matt Stewart
+247 M Ral, Monsoon Mage @Dmitry Burmak
+251 M Grist, Voracious Larva @Chris Rahn
 265 R Orim's Chant @Kev Walker
+269 R Estrid's Invocation @Johannes Voss
 270 R Kappa Cannoneer @Jesper Ejsing
+278 U Victimize @Craig J Spearing
+279 R Cursed Mirror @David Gaillet
 281 R Laelia, the Blade Reforged @Wisnu Tan
 282 U Meltdown @Donato Giancola
 286 U Priest of Titania @Rebecca Guay
 287 R Sylvan Safekeeper @Magali Villeneuve
+293 U Junk Diver @Eric Peterson
+302 U Nesting Grounds @Yeong-Hao Han
 304 L Plains @Nadia Hurianova
 305 L Island @Samuele Bandini
 306 L Swamp @Yohann Schepacz
 307 L Mountain @Chuck Lukacs
 308 L Forest @Vance Kovacs
 309 U Snow-Covered Wastes @Tomáš Honz
+320 R Echoes of Eternity @Clint Lockwood
 323 R Orim's Chant @Olena Richards
 326 R Flare of Denial @Marie Magny
 330 R Chthonian Nightmare @Thomas M. Baxa
 338 R Flare of Cultivation @Olena Richards
+340 R Sowing Mycospawn @Nils Hamm
 344 R Psychic Frog @Chuck Lukacs
 352 R Bloodstained Mire @Sean Vo
 353 R Flooded Strand @Salvatorre Zee Yazzie
@@ -59,6 +98,7 @@ ScryfallCode=MH3
 362 M Herigast, Erupting Nullkite @Tyler Walpole
 364 R Phelia, Exuberant Shepherd @Allison Carl
 368 R Laelia, the Blade Reforged @Tyler Walpole
+370 R Six @Ivan Shavrin
 376 R Kudo, King Among Bears @Peter Diamond
 381 M Emrakul, the World Anew @Mark Tedin
 384 M Emrakul, the World Anew @Brent Hollowell

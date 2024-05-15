@@ -6,13 +6,30 @@ Type=Commander
 ScryfallCode=M3C
 
 [cards]
-16 M Ulalek, Fused Atrocity @Cosmin Podar
+16 R Ulalek, Fused Atrocity @Cosmin Podar
+32 R Eldrazi Confluence @Hristo D. Chukov
+33 R Eldritch Immunity @Carlos Palma Cruchaga
+35 R Selective Obliteration @Yeong-Hao Han
+36 R Spawnbed Protector @Maxime Minard
 37 R Twins of Discord @Lorenzo Lanfranconi
 48 R March from Velis Vel @Carlos Palma Cruchaga
+51 R Bismuth Mindrender @Maxime Minard
 52 R Final Act @Nils Hamm
+53 R Mutated Cultist @Dave Kendall
 61 R Siege-Gang Lieutenant @Warren Mahy
 80 R Planar Nexus @Sam Burley
 100 R March from Velis Vel @Carlos Palma Cruchaga
 104 R Final Act @Nils Hamm
+111 R Pyrogoyf @Xabi Gaztelua
+112 R Sawhorn Nemesis @Monztre
 113 R Siege-Gang Lieutenant @Warren Mahy
+114 R Tempt with Mayhem @Deruchenko Alexander
+120 R Tarmogoyf Nest @Filipe Pagliuso
+121 R Aggressive Biomancy @Dominik Mayer
+122 R Bloodbraid Challenger @Lie Setiawan
+123 R Broodmate Tyrant @Chris Rahn
+124 R Exterminator Magmarch @Monztre
+125 R Gluttonous Hellkite @Josiah "Jo" Cameron
+126 R Infested Thrinax @David Astruga
 132 R Planar Nexus @Sam Burley
+203 R Sifter of Skulls @Slawomir Maniak
